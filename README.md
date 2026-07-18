@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1089-duplicate-zeros) |
 | [1672-richest-customer-wealth](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
