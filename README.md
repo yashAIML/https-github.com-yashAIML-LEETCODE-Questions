@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2469-convert-the-temperature) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3516-find-closest-person](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
